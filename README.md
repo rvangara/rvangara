@@ -1,10 +1,14 @@
 ### 
-
+<!--
 <div align="center", style="font-size: 50px">
 
   <img src="https://github-readme-stats.vercel.app/api?username=rvangara&show_icons=true&hide_border=true&theme=algolia&count_private=True&hide_rank=True"></img>
 
 </div>
+-->
+
+
+
 
 <!--
 **rvangara/rvangara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
