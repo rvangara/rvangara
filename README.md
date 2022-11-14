@@ -1,5 +1,5 @@
 ### 
-
+<!-- 
 <div align="center", style="font-size: 50px">
 
   <img src="https://github-readme-stats.vercel.app/api?username=rvangara&show_icons=true&hide_border=true&theme=algolia&count_private=True&hide_rank=True"></img>
@@ -27,7 +27,7 @@
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=rvangara&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Raviteja Vangara's Github stats" />
 </a>
 </div>
-
+ -->
 
 
 <!--
