@@ -1,4 +1,14 @@
 ### 
+
+<strong> Dr. Raviteja Vangara </strong> is currently a Postdoctoral Researcher in the [Alexandrov lab](https://alexandrov.cloud.ucsd.edu/) at the Department of Cellular and Molecular Medicine, UCSD. His current research includes utilizing state-of-art machine learning approaches for mutational scignature analysis for human cancer. 
+
+Prior to this, he was a researcher at Theoretical Division, [Los Alamos National Laboratory](https://www.lanl.gov) where he worked on plethora of scietifc applications that utilize unsupervised machine learning techniques which involve graphical clustering methods, non-negative matrix and tensor factorization techniques for pattern recognition, and latent feature extraction. At LANL, Dr. Vangara was part of a [2021 R&D award](https://www.rdworldonline.com/2021-rd-100-award-winners/) winning team, [Smart Tensors](https://collaboration.lanl.gov/smarttensors), that released several open source softwares that utilizes scalable distributed computing methods for high-performance computing scientific applications. 
+
+Dr. Vangara received Ph.D. with distinction in 2019 for his work on <em>Coulumbic and non Coulumbic effects of Electric Double Layers</em>  and M.S in 2017 from the [Petsev lab](https://petsevlab.unm.edu),  Department of Chemical and Biological Engineering, [The University of New Mexico](https://cbe.unm.edu). 
+
+
+
+
 <!--
 
 <div align="center", style="font-size: 50px">
